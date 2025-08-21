@@ -96,7 +96,7 @@
 ---
 
 ## 👥 People You Should Check Out
-- [ReallyCreative](https://github.com/ReallyCreative)  
+- [ReallyCreative](https://github.com/ReallyCreativeDev)  
 - [GingerJake](https://github.com/GingerJakeDaBoi)  
 - [Parag Ghoshal (My Dad)](https://github.com/paragrghoshal)  
 
