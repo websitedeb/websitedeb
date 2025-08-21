@@ -1,6 +1,6 @@
 <!-- Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Monospace&size=25&duration=3000&pause=500&color=00F7BB&width=600&lines=Hello%2C+I+am...;Name%3A+Sarthak+Ghoshal;Github%3A+websitedeb;Discord%3A+reactive_nodes;NPM%3A+web_deb_guy;PYPI%3A+webdev;Roblox%3A+Python_py%2C+iamlitrss;Nice+to+Meet+You!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Monospace&size=25&duration=3000&pause=500&color=00F7BB&width=600&center=true&vCenter=true&lines=Hello%2C+I+am...;Name%3A+Sarthak+Ghoshal;Github%3A+websitedeb;Discord%3A+reactive_nodes;NPM%3A+web_deb_guy;PYPI%3A+webdev;Roblox%3A+Python_py%2C+iamlitrss;Nice+to+Meet+You!" alt="Typing SVG" />
 </div>
 
 ---
