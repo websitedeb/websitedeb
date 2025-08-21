@@ -76,7 +76,7 @@
 
 ### ☁️ Infrastructure / Deployment  
 <img src="https://go-skill-icons.vercel.app/api/icons?i=cloudflare,workers,vercel,render,aws" /><br/>  
-<sub><sup>Note: I only have limited experience with AWS and Vercel</sup></sub>
+<sub><sup>Note: I only have limited experience with AWS, Vercel and Electron</sup></sub>
 
 </div>
 
