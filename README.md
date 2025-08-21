@@ -69,6 +69,9 @@
 <img src="https://go-skill-icons.vercel.app/api/icons?i=cloudflare,workers,vercel,render,aws" /><br/>  
 <sub><sup>Note: I only have limited experience with AWS and Vercel</sup></sub>
 
+### 🛠️ Tools
+<img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,dreamweaver,git,github,postman" />
+
 </div>
 
 ---
