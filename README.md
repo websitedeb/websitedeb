@@ -66,7 +66,7 @@
 <img src="https://go-skill-icons.vercel.app/api/icons?i=expo" />
 
 ### 🖥 Desktop
-<img src="https://go-skill-icons.vercel.app/api/icons?i=electron, tauri" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=electron,tauri" />
 
 ### 🤖 Bot Development
 <img src="https://go-skill-icons.vercel.app/api/icons?i=discordjs" />
