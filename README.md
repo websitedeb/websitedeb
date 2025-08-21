@@ -6,18 +6,21 @@
 ---
 
 ## 👨‍💻 About Me
+- 🎂 14 years old
 - 🔭 Currently working on: [Saragarhi](https://github.com/websitedeb/Saragarhi-Client)  
 - 🌱 Learning: **Rust**  
 - ⚡ Fun fact: I’m a competitive swimmer and build robots taller than me 🤖  
 - 📫 Reach me: [Discord](#) (`reactive_nodes`) or [Email](mailto:sarthak22.ghoshal@gmail.com)  
-- 🏢 Member of: [Red Alert Robotics](https://github.com/RAR1741)  
+- 🏢 Member of: [Red Alert Robotics](https://github.com/RAR1741)
+- Open for commissions, contact me on my email or discord!
 
 ---
 
 ## 📫 Contacts
 <div align="center">
 <a href="https://discord.com/users/822134854073450608"><img src="https://img.shields.io/badge/Discord-%40reactive_nodes-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
-<a href="mailto:sarthak22.ghoshal@gmail.com"><img src="https://img.shields.io/badge/GMAIL-%40sarthak22.ghoshal@gmail.com-00F7BB?style=for-the-badge&logo=gmail&logoColor=red" /></a>
+<a href="mailto:sarthak22.ghoshal@gmail.com"><img src="https://img.shields.io/badge/GMAIL-%40sarthak22.ghoshal@gmail.com-00F7BB?style=for-the-badge&logo=gmail&logoColor=red" /></a><br />
+<img src="https://lanyard-profile-readme.vercel.app/api/822134854073450608?bg=1F2227&borderRadius=8px" alt="Lanyard Discord Status"/>
 </div>
 
 ---
