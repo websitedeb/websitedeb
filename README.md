@@ -51,7 +51,7 @@
 <div align="center">
 
 ### 🌐 Languages  
-<img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,py,rust" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,py,rust,java" />
 
 ### 🎨 Frontend  
 <img src="https://go-skill-icons.vercel.app/api/icons?i=react,next,tailwindcss,redux,zustand" />
@@ -65,12 +65,15 @@
 ### 📱 Mobile  
 <img src="https://go-skill-icons.vercel.app/api/icons?i=expo" />
 
-### ☁️ Infrastructure / Deployment  
-<img src="https://go-skill-icons.vercel.app/api/icons?i=cloudflare,workers,vercel,render,aws" /><br/>  
-<sub><sup>Note: I only have limited experience with AWS and Vercel</sup></sub>
+### 🤖 Bot Development
+<img src="https://go-skill-icons.vercel.app/api/icons?i=discordjs" />
 
 ### 🛠️ Tools
 <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,dreamweaver,git,github,postman" />
+
+### ☁️ Infrastructure / Deployment  
+<img src="https://go-skill-icons.vercel.app/api/icons?i=cloudflare,workers,vercel,render,aws" /><br/>  
+<sub><sup>Note: I only have limited experience with AWS and Vercel</sup></sub>
 
 </div>
 
