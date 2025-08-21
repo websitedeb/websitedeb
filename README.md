@@ -19,8 +19,7 @@
 ## 📫 Contacts
 <div align="center">
 <a href="https://discord.com/users/822134854073450608"><img src="https://img.shields.io/badge/Discord-%40reactive_nodes-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
-<a href="mailto:sarthak22.ghoshal@gmail.com"><img src="https://img.shields.io/badge/GMAIL-%40sarthak22.ghoshal@gmail.com-00F7BB?style=for-the-badge&logo=gmail&logoColor=red" /></a><br />
-<img src="https://lanyard-profile-readme.vercel.app/api/822134854073450608?bg=1F2227&borderRadius=8px" alt="Lanyard Discord Status"/>
+<a href="mailto:sarthak22.ghoshal@gmail.com"><img src="https://img.shields.io/badge/GMAIL-%40sarthak22.ghoshal@gmail.com-00F7BB?style=for-the-badge&logo=gmail&logoColor=red" /></a>
 </div>
 
 ---
