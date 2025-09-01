@@ -74,7 +74,7 @@
 <img src="https://go-skill-icons.vercel.app/api/icons?i=discordjs" />
 
 ### 🛠️ Tools
-<img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,dreamweaver,git,github,postman" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,dreamweaver,pycharm,git,github,postman" />
 
 ### ☁️ Infrastructure / Deployment  
 <img src="https://go-skill-icons.vercel.app/api/icons?i=cloudflare,workers,vercel,render,aws" /><br/>  
