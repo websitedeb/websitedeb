@@ -6,7 +6,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎂 14 years old
+- 🎂 15 years old
 - 🔭 Currently working on: [Saragarhi](https://github.com/websitedeb/Saragarhi-Client)  
 - 🌱 Learning: **Rust**  
 - ⚡ Fun fact: I’m a competitive swimmer and build robots taller than me 🤖  
