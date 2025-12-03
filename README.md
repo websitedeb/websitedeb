@@ -26,21 +26,22 @@
 
 ## 🚀 Projects
 <div align="center">
-  
-![Saragarhi Client](https://github-readme-stats.vercel.app/api/pin/?username=websitedeb&repo=Saragarhi-Client&theme=tokyonight)  
-![Saragarhi DB Backend](https://github-readme-stats.vercel.app/api/pin/?username=websitedeb&repo=Saragarhi-Database-Backend&theme=tokyonight)  
-![Lilliepy Router](https://github-readme-stats.vercel.app/api/pin/?username=websitedeb&repo=lilliepy-dir-router&theme=tokyonight)  
-![Romine Website](https://github-readme-stats.vercel.app/api/pin/?username=websitedeb&repo=romine-website&theme=tokyonight)  
-![RAR Tracking](https://github-readme-stats.vercel.app/api/pin/?username=RAR1741&repo=tracking&theme=tokyonight)  
+
+  [Saragarhi Client](https://github.com/websitedeb/Saragarhi-Client)
+  [Saragarhi Database Backend](https://github.com/websitedeb/Saragarhi-Database-Backend)
+  [Lilliepy Router](https://github.com/websitedeb/lilliepy-dir-router)
+  [Romine Website](https://github.com/websitedeb/romine-website)
+  [RAR Tracking](https://github.com/RAR1741/tracking)
+
 
 </div>
 
 ---
 
-<div align="center">
-
 ## 💼 Experience
-![](https://github-readme-stats.vercel.app/api/pin/?username=RAR1741&repo=RA25_RobotCode&theme=tokyonight)  
+<div align="center">
+  
+[RA25 RobotCode](https://github.com/RAR1741/RA25_RobotCode)
 [Romine Website](https://romine.pages.dev)  
 [Advisha Services Website](https://advisha-services.pages.dev)  
 [Student Swiss Knife Website](https://student-swiss-knife.pages.dev)  
