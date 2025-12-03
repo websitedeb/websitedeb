@@ -36,6 +36,7 @@
 - [Lilliepy Router](https://github.com/websitedeb/lilliepy-dir-router)  
 - [Romine Website](https://github.com/websitedeb/romine-website)  
 - [RAR Tracking](https://github.com/RAR1741/tracking)
+- [Admin Helper Discord Bot](https://github.com/websitedeb/adminhelper)
 
 </div>
 
@@ -48,6 +49,8 @@
 - [Romine Website](https://romine.pages.dev)  
 - [Advisha Services Website](https://advisha-services.pages.dev)  
 - [Student Swiss Knife Website](https://student-swiss-knife.pages.dev)
+- [Admin Helper Discord Bot](https://github.com/websitedeb/adminhelper)
+
 
 </div>
 
