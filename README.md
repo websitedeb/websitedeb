@@ -92,7 +92,7 @@
 ## 📊 GitHub Stats
 <div align="center">
 
-i can' find any :p
+i can't find any :p
 
 </div>
 
