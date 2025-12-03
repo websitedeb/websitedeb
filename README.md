@@ -57,7 +57,7 @@
 <div align="center">
 
 ### 🌐 Languages  
-<img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,py,rust,java" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,py,java" />
 
 ### 🎨 Frontend  
 <img src="https://go-skill-icons.vercel.app/api/icons?i=react,next,tailwindcss,redux,zustand" />
