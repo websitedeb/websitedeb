@@ -60,16 +60,16 @@
 <div align="center">
 
 ### 🌐 Languages  
-<img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,py,java,luau" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,py,java,luau,md,php" />
 
 ### 🎨 Frontend  
-<img src="https://go-skill-icons.vercel.app/api/icons?i=react,next,tailwindcss,redux,zustand" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=react,next,tailwindcss,redux,zustand,jquery" />
 
 ### ⚙️ Backend  
-<img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,hono,flask,drizzle" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,hono,flask,fastapi,drizzle,php" />
 
 ### 🗄️ Databases  
-<img src="https://go-skill-icons.vercel.app/api/icons?i=mongo,mysql" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=mongo,mysql,sqlite" />
 
 ### 📱 Mobile  
 <img src="https://go-skill-icons.vercel.app/api/icons?i=expo" />
@@ -77,11 +77,17 @@
 ### 🖥 Desktop  
 <img src="https://go-skill-icons.vercel.app/api/icons?i=electron,tauri" />
 
+### 🧰 Testing
+<img src="https://go-skill-icons.vercel.app/api/icons?i=selenium" />
+
 ### 🤖 Bot Development  
 <img src="https://go-skill-icons.vercel.app/api/icons?i=discordjs" />
 
+### 🕹️ Game Development
+<img src="https://go-skill-icons.vercel.app/api/icons?i=robloxstudio" />
+
 ### 🛠 Tools  
-<img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,dreamweaver,pycharm,git,github,postman" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,replit,dreamweaver,pycharm,git,github,postman,eclipse,docker,npm" />
 
 ### ☁️ Deployment / Infrastructure
 <img src="https://go-skill-icons.vercel.app/api/icons?i=cloudflare,workers,vercel,render,aws" /> 
