@@ -12,7 +12,6 @@
 - 🤖 I build robots taller than me + I’m a competitive swimmer  
 - 📫 Contact me: **Discord — `reactive_nodes`** | **[Email](mailto:sarthak22.ghoshal@gmail.com)**
 - 🏢 Member of: **[Red Alert Robotics](https://github.com/RAR1741)**
-- 💼 Open for commissions — email/Discord preferred
 
 ---
 
