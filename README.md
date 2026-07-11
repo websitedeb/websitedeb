@@ -59,13 +59,13 @@
 <div align="center">
 
 ### 🌐 Languages  
-<img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,py,java,luau,md,php" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,py,java,luau,md" />
 
 ### 🎨 Frontend  
-<img src="https://go-skill-icons.vercel.app/api/icons?i=react,next,tailwindcss,redux,zustand,jquery" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=react,next,tailwindcss,zustand,jquery" />
 
 ### ⚙️ Backend  
-<img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,hono,flask,fastapi,drizzle,php" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,hono,flask,fastapi" />
 
 ### 🗄️ Databases  
 <img src="https://go-skill-icons.vercel.app/api/icons?i=mongo,mysql,sqlite" />
@@ -89,7 +89,7 @@
 <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,replit,dreamweaver,pycharm,git,github,postman,eclipse,docker,npm" />
 
 ### ☁️ Deployment / Infrastructure
-<img src="https://go-skill-icons.vercel.app/api/icons?i=cloudflare,workers,vercel,render,aws" /> 
+<img src="https://go-skill-icons.vercel.app/api/icons?i=cloudflare,workers,vercel,render" /> 
 </div>
 
 ---
