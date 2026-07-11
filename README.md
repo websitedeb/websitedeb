@@ -41,7 +41,7 @@
 
 ---
 
-## 💼 Experience / Work
+## 💼 Experience
 <div align="center">
 
 - [RA25 RobotCode](https://github.com/RAR1741/RA25_RobotCode)  
