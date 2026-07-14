@@ -50,6 +50,7 @@
 - [Advisha Services Website](https://advisha-services.pages.dev)  
 - [Student Swiss Knife Website](https://student-swiss-knife.pages.dev)
 - [Admin Helper Discord Bot](https://github.com/websitedeb/adminhelper)
+- [Da Boys AI](https://github.com/Da-Boys-Developement/DaBoysAI)
 
 
 </div>
