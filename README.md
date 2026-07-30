@@ -85,7 +85,7 @@
 <img src="https://go-skill-icons.vercel.app/api/icons?i=discordjs" />
 
 ### 🕹️ Game Development
-<img src="https://go-skill-icons.vercel.app/api/icons?i=robloxstudio" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=robloxstudio,threejs" />
 
 ### 🛠 Tools  
 <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,replit,dreamweaver,pycharm,git,github,postman,eclipse,docker,npm" />
