@@ -87,6 +87,12 @@
 ### 🕹️ Game Development
 <img src="https://go-skill-icons.vercel.app/api/icons?i=robloxstudio,threejs" />
 
+### 📈 Data Analytics
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,matplotlib,seaborn" />
+
+### 🧠 Machine Learning
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pydantic" />
+
 ### 🛠 Tools  
 <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,replit,dreamweaver,pycharm,git,github,postman,eclipse,docker,npm" />
 
