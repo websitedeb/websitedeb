@@ -61,10 +61,10 @@
 <div align="center">
 
 ### 🌐 Languages  
-<img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,py,java,luau,md" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,py,java,luau,rust,md" />
 
 ### 🎨 Frontend  
-<img src="https://go-skill-icons.vercel.app/api/icons?i=react,next,tailwindcss,zustand,jquery" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=react,next,tailwindcss,bootstrap,zustand,jquery" />
 
 ### ⚙️ Backend  
 <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,hono,flask,fastapi" />
