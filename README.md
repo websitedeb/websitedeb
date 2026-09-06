@@ -8,7 +8,7 @@
 ## 👨‍💻 About Me
 - 🎂 **15 years old**
 - 🔭 Working on: My Portfolio Site
-- 🌱 Learning: **Tensorflow**
+- 🌱 Learning: **Tensorflow & Rust**
 - 🤖 I build robots taller than me + I’m a competitive swimmer  
 - 📫 Contact me: **Discord — `reactive_nodes`** | **[Email](mailto:sarthak22.ghoshal@gmail.com)**
 - 🏢 Member of: **[Red Alert Robotics](https://github.com/RAR1741)**
@@ -73,7 +73,7 @@
 <img src="https://go-skill-icons.vercel.app/api/icons?i=mongo,mysql,sqlite" />
 
 ### 📱 Mobile  
-<img src="https://go-skill-icons.vercel.app/api/icons?i=expo" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=expo,reactnative" />
 
 ### 🖥 Desktop  
 <img src="https://go-skill-icons.vercel.app/api/icons?i=electron,tauri" />
@@ -91,10 +91,10 @@
 <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,matplotlib,seaborn" />
 
 ### 🧠 Machine Learning
-<img src="https://go-skill-icons.vercel.app/api/icons?i=pydantic" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pydantic,tensorflow" />
 
 ### 🛠 Tools  
-<img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,replit,dreamweaver,pycharm,git,github,postman,eclipse,docker,npm" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,replit,dreamweaver,pycharm,git,github,postman,eclipse,docker,npm,pypi,canva" />
 
 ### ☁️ Infrastructure
 <img src="https://go-skill-icons.vercel.app/api/icons?i=cloudflare,workers,vercel,render" /> 
