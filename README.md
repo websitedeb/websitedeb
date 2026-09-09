@@ -5,9 +5,11 @@
 
 ---
 
+[My Website](https://python-py.pages.dev)
+
 ## 👨‍💻 About Me
 - 🎂 **15 years old**
-- 🔭 Working on: My Portfolio Site
+- 🔭 Working on: Something
 - 🌱 Learning: **Tensorflow & Rust**
 - 🤖 I build robots taller than me + I’m a competitive swimmer  
 - 📫 Contact me: **Discord — `reactive_nodes`** | **[Email](mailto:sarthak22.ghoshal@gmail.com)**
@@ -98,6 +100,9 @@
 
 ### ☁️ Infrastructure
 <img src="https://go-skill-icons.vercel.app/api/icons?i=cloudflare,workers,vercel,render" /> 
+
+### 🧪 AI
+<img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt,gemini" /> 
 </div>
 
 ---
